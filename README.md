@@ -1,15 +1,43 @@
-# Kræsjkurs i Python
+# Nettkurs: Kræsjkurs i Python programmering for lærere
 
-## Kursmateriale for kræsjkurs i Python for Tekna høsten 2019
+## Hva er dette repositoriet?
+Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
+
+# Materiale: 
 **Kompendiet for dag en** finner dere [her](dag1/Kompendium%20dag%201.pdf).
 
 **Oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201.pdf).
 
 Løsningsforslag og materiale for dag to kommer senere. Vi vil også legge ut all kode vi skriver i kurset.
 
-## Ekstramaterilale
+# Kursets innhold:
+Dette kurset er en kræsjkurs i programmering for lær\-ere som har liten eller ingen tidligere erfaring med programmering.
 
+I løpet av kurset vil vi gi en kort innføring i hvordan man kan bruke det tekstbaserte programmeringspråket Python som et verktøy i eget klasserom. Grunnet begrenset med tid vil vi ikke prøve å gi en heldekkende innføring i programmering, eller generelle bruksområder. Vi prøver isteden å rette oss inn mot tema som dekkes i matematikken på VGS.
+
+## Ekstramateriale
 Det ligger også ekstramateriale i mappen [ekstra](ekstra/). Der finner dere:
 *  [et eksempel på en Jupyter notebook](ekstra/Notebook_demo.ipynb)
 *  [en guide til plotting med repl.it](ekstra/plotting_i_replit.md)
-*  [en artikkel med tips for å undervise programmering](ekstra/10_quick_tips_for_teaching_programming_brown.pdf).
+*  [en artikkel med tips for å undervise programmering](ekstra/10_quick_tips_for_teaching_programming_brown.pdf)
+
+## Ekstra Ressurser:
+Her har vi samlet et knippe resurser som kan være nyttige som ekstra trening eller som inspirasjon for realfagsrelevante programmeringseksempler. 
+
+[Oppgavesamling fra Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20fra%20Langtangen.pdf)
+Oppgavesamling fra “A Primer on Scientific Programming with Python” av H. P. Langtangen. Boken brukes som lærebok i "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Oppgavesettet inneholder grunnleggende programmeringsoppgaver med naturvitenskapelige anvedelser. Koden i boka er for Python 2.7, men oppgavene kan løses med Python 3.
+
+[Ekstra oppgavesamling til Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Ekstraoppgaver%20til%20Langtangen.pdf)
+En samling supplementerende oppgaver for Langtangens bok.
+
+[Oppgavesamling i fysikk](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20fysikk.pdf)
+Disse oppgavene er laget som et supplement til "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Det er Fysisk Institutt som står bak oppgavesettet og ideen bak det var å lage en samling fysikkrelaterte oppgaver. Oppgavesettet kan derfor være en fin kilde til inspirasjon for fysikkrelevante programmeringsoppgaver.
+
+[Oppgavesamling i kjemi](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20kjemi.pdf)
+Disse oppgavene er laget som et supplement til introduksjonsemne i python programmering ved UiO. Oppgavene er laget for å gi kjemistudenter ved UiO relevante eksempler som kombinerer programmering og kjemi. Oppgavesettet kan derfor være en fin kilde til inspirasjon for kjemirelevante programmeringsoppgaver.
+
+[Oppgavesamling i geo](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20geo.pdf)
+Denne oppgavesamlingen inneholder programmeringsoppgaver i Python som er relevante for geofagstudenter ved UiO
+
+[Kodeskolen VGS kurs](https://github.com/kodeskolen/vgs)
+Materiale for et 5 dagers kurs arrangert av Kodeskolen våren 2019. 
