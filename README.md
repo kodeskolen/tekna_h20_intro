@@ -5,4 +5,4 @@
 
 **Oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201.pdf).
 
-Materiale for dag to kommer senere.
+Løsningsforslag og materiale for dag to kommer senere.
