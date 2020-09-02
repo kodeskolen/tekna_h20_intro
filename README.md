@@ -24,14 +24,14 @@ Det ligger også ekstramateriale i mappen [ekstra](ekstra/). Der finner dere:
 ## Ekstra Ressurser:
 Her har vi samlet et knippe resurser som kan være nyttige som ekstra trening eller som inspirasjon for realfagsrelevante programmeringseksempler. 
 
-[Oppgavesamling fra Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20fra%20Langtangen.pdf)
-Oppgavesamling fra “A Primer on Scientific Programming with Python” av H. P. Langtangen. Boken brukes som lærebok i "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Oppgavesettet inneholder grunnleggende programmeringsoppgaver med naturvitenskapelige anvedelser. Koden i boka er for Python 2.7, men oppgavene kan løses med Python 3.
+[Kodeskolen VGS kurs](https://github.com/kodeskolen/vgs)
+Materiale for et 5 dagers kurs arrangert av Kodeskolen våren 2019. 
 
-[Ekstra oppgavesamling til Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Ekstraoppgaver%20til%20Langtangen.pdf)
-En samling supplementerende oppgaver for Langtangens bok.
+[Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
+En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python programmering ved UiO.
 
 [Oppgavesamling i fysikk](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20fysikk.pdf)
-Disse oppgavene er laget som et supplement til "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Det er Fysisk Institutt som står bak oppgavesettet og ideen bak det var å lage en samling fysikkrelaterte oppgaver. Oppgavesettet kan derfor være en fin kilde til inspirasjon for fysikkrelevante programmeringsoppgaver.
+Disse oppgavene er laget som et supplement til "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser". Det er Fysisk Institutt som står bak oppgavesettet og ideen bak det var å lage en samling fysikkrelaterte oppgaver. Oppgavesettet kan derfor være en fin kilde til inspirasjon for fysikkrelevante programmeringsoppgaver.
 
 [Oppgavesamling i kjemi](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20kjemi.pdf)
 Disse oppgavene er laget som et supplement til introduksjonsemne i python programmering ved UiO. Oppgavene er laget for å gi kjemistudenter ved UiO relevante eksempler som kombinerer programmering og kjemi. Oppgavesettet kan derfor være en fin kilde til inspirasjon for kjemirelevante programmeringsoppgaver.
@@ -39,5 +39,8 @@ Disse oppgavene er laget som et supplement til introduksjonsemne i python progra
 [Oppgavesamling i geo](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20geo.pdf)
 Denne oppgavesamlingen inneholder programmeringsoppgaver i Python som er relevante for geofagstudenter ved UiO
 
-[Kodeskolen VGS kurs](https://github.com/kodeskolen/vgs)
-Materiale for et 5 dagers kurs arrangert av Kodeskolen våren 2019. 
+[Oppgavesamling fra Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20fra%20Langtangen.pdf)
+Oppgavesamling fra “A Primer on Scientific Programming with Python” av H. P. Langtangen. Boken brukes som lærebok i "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Oppgavesettet inneholder grunnleggende programmeringsoppgaver med naturvitenskapelige anvedelser. Koden i boka er for Python 2.7, men oppgavene kan løses med Python 3.
+
+[Ekstra oppgavesamling til Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Ekstraoppgaver%20til%20Langtangen.pdf)
+En samling supplementerende oppgaver for Langtangens bok.
