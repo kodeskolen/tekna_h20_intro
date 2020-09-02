@@ -9,4 +9,7 @@ Løsningsforslag og materiale for dag to kommer senere. Vi vil også legge ut al
 
 ## Ekstramaterilale
 
-Det ligger også ekstramateriale i mappen [ekstra](ekstra/). Der finner dere [et eksempel på en Jupyter notebook](ekstra/Notebook_demo.ipynb), [en guide til plotting med repl.it](ekstra/plotting_i_replit.md) og [en artikkel med tips for å undervise programmering](ekstra/10_quick_tips_for_teaching_programming_brown.pdf).
+Det ligger også ekstramateriale i mappen [ekstra](ekstra/). Der finner dere:
+*  [et eksempel på en Jupyter notebook](ekstra/Notebook_demo.ipynb)
+*  [en guide til plotting med repl.it](ekstra/plotting_i_replit.md)
+*  [en artikkel med tips for å undervise programmering](ekstra/10_quick_tips_for_teaching_programming_brown.pdf).
