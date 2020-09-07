@@ -14,7 +14,7 @@ rente = 1.029
 
 antall_år = 10 
 
-for år in [1, 2, 3, 4]:
+for år in range(1, antall_år + 1):
     penger *= rente
     print(f"Etter {år:2} år er det {penger:.2f} kr")
     
