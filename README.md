@@ -8,6 +8,8 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201.pdf).
 
+**Løsningsforslag for oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201-%20med%20løsningsforslag.pdf).
+
 **Kode for dag en** finner dere [her](dag1/kode/)
 
 **Slides for dag en** finner dere [her](dag1/Virtuelt_tekna_krasjkurs_intropresentasjon_dag1.pdf)
