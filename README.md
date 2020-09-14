@@ -4,6 +4,7 @@
 Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
 
 # Materiale: 
+## Dag 1
 **Kompendiet for dag en** finner dere [her](dag1/Kompendium%20dag%201.pdf).
 
 **Oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201.pdf).
@@ -14,7 +15,11 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Slides for dag en** finner dere [her](dag1/Virtuelt_tekna_krasjkurs_intropresentasjon_dag1.pdf)
 
-Løsningsforslag og materiale for dag to kommer senere. Vi vil også legge ut all kode vi skriver i kurset.
+## Dag 2:
+
+**Kompendiet for dag en** finner dere [her](dag2/Kompendium%20dag%202.pdf).
+
+**Oppgavene for dag en** finner dere [her](dag2/Oppgaver%20dag%202.pdf).
 
 # Kursets innhold:
 Dette kurset er en kræsjkurs i programmering for lær\-ere som har liten eller ingen tidligere erfaring med programmering.
